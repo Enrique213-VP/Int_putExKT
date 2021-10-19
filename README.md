@@ -5,6 +5,6 @@ Puedes mirar la guia original en [Intents](https://developer.android.com/guide/c
 Video guia para entender en el canal.
 
 
-[![ScreenShot](https://yt3.ggpht.com/yti/APfAmoGysBPvBxMHnMT6B_HpImZStDqDtfXAY4QyxnmCfw=s108-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/watch?v=ufaK_Hd6BpI)
+[![ScreenShot](https://yt3.ggpht.com/yti/APfAmoGysBPvBxMHnMT6B_HpImZStDqDtfXAY4QyxnmCfw=s108-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/playlist?list=PLZRmG-2i2tgFVgcZkp8gP2uG8JnPPsOUr)
 
 <br/>
